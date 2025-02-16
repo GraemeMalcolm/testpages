@@ -2,4 +2,7 @@
 
 Welcome to page 2
 
-![](/ai-test.mp4)
+<video width="800" height="600" controls>
+  <source src="ai-test.mp4" type="video/mp4">
+</video>
+
