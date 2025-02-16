@@ -2,4 +2,4 @@
 
 Welcome to page 2
 
-![My Video.](ai-test.mp4)
+![](/ai-test.mp4)
